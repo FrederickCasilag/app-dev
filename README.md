@@ -1,2 +1,8 @@
 # app-dev
-My first repository
+## garfield
+** genius cat **
+### character
+** chris pratt **
+** samuel jackson **
+
+
